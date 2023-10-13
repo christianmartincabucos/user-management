@@ -35,6 +35,6 @@ Follow these steps to set up the project:
     php artisan db:seed --class=UserSeeder
 
 8. After installation, you can start the local development server using the command
-```bash
-php artisan serve
+    ```bash
+    php artisan serve
 
